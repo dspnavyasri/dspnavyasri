@@ -65,11 +65,12 @@
 <p align="left">
 &nbsp; <a href="https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:dspnavya01@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-&nbsp; <a href="[https://www.instagram.com/navyadsp](https://www.instagram.com/navyadsp/)/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-</p>
-<a href="https://www.instagram.com/navyadsp/" target="_blank" rel="noopener noreferrer">
+&nbsp; <a href="https://www.instagram.com/navyadsp/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />
 </a>
+
+</p>
+
 
 ⭐️ From [dsnavyasri](https://github.com/dspnavyasri)
 
