@@ -58,6 +58,15 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dspnavyasri&" alt="dspnavyasri" /></p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=dspnavyasri&color=brightgreen)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/" height="30" width="40" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:dspnavya01@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="[https://www.instagram.com/xoxo_hari_](https://www.instagram.com/navyadsp/)/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+
+
+⭐️ From [dsnavyasri](https://github.com/dspnavyasri)
+
