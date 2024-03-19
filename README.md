@@ -1,5 +1,6 @@
 ### Hello, I'm Shankara Parameshwari Navya Sri Dameruppula👋
-[![MasterHead](https://blog.zoho.com/sites/zblogs/images/cliq/new-converted-2019-08.gif)]
+[![MasterHead](https://blog.zoho.com/sites/zblogs/images/cliq/new-converted-2019-08.gif)](https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/)
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 - 🔭 I’m currently working on mastering my skills in Python and SQL, diving deep into data engineering projects. ...
@@ -36,5 +37,4 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white) 📊
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 🧠
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 🤖
-
 
