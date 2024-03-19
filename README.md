@@ -38,3 +38,9 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 🧠
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 🤖
 
+<!-- GitHub Stats Cards -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dspnavyasri&show_icons=true&locale=en&layout=compact" alt="dspnavyasri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dspnavyasri&show_icons=true&locale=en" alt="dspnavyasri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dspnavyasri&" alt="dspnavyasri" /></p>
