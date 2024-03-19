@@ -15,6 +15,13 @@
 - 💬 &nbsp; Ask me about data science, data engineering, and my journey as a graduate student in data science.
 
 - 📫 &nbsp; How to reach me: You can drop me a message on [LinkedIn Profile](https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/) or shoot me an email at [dspnavya01@email.com].
+<h3> 📝 My certification </h3>
+
+ - [Data Science and Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/2CHLFRCS7XH3)
+- [Databricks Certified Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/7babce27-ec0e-4bd0-bb43-ca90255c508f)
+ - [Databricks Certified Professional Data Scientist](https://credentials.databricks.com/245cf5d0-9193-4276-9b85-d284b1d7a938#gs.6ml4de)
+ - [Zero to Pandas Certification](https://jovian.ai/certificate/MFQTONBTG4)
+
 
 - 😄 &nbsp; Pronouns: She/Her
 
