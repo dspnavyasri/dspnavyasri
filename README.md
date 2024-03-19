@@ -14,7 +14,7 @@
 
 - 💬 &nbsp; Ask me about data science, data engineering, and my journey as a graduate student in data science.
 
-- 📫 &nbsp; How to reach me: You can drop me a message on LinkedIn or shoot me an email at [dspnavya01@email.com].
+- 📫 &nbsp; How to reach me: You can drop me a message on [LinkedIn Profile](https://www.linkedin.com/in/shankara-parameshwari-navya-sri-dameruppula-a8697b239/) or shoot me an email at [dspnavya01@email.com].
 
 - 😄 &nbsp; Pronouns: She/Her
 
