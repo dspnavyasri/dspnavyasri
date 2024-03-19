@@ -3,20 +3,33 @@
 
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭 I’m currently working on mastering my skills in Python and SQL, diving deep into data engineering projects. ...
-- 🌱 I’m currently learning advanced machine learning algorithms and cloud technologies to enhance my data engineering capabilities.
-- 👯 I’m looking to collaborate on open-source projects related to data processing, ETL pipelines, and web development.
-- 🤔 I’m looking for help with optimizing data workflows and building scalable data architectures.
-- 💬 Ask me about data science, data engineering, and my journey as a graduate student in data science.
-- 📫 How to reach me: You can drop me a message on LinkedIn or shoot me an email at [dspnavya01@email.com].
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love hiking and exploring new trails in my free time!
+
+- 🔭 &nbsp; I’m currently working on mastering my skills in Python and SQL, diving deep into data engineering projects.
+
+- 🌱  &nbsp; I’m currently learning advanced machine learning algorithms and cloud technologies to enhance my data engineering capabilities.
+
+- 👯 &nbsp; looking to collaborate on open-source projects related to data processing, ETL pipelines, and web development.
+
+- 🤔  &nbsp; looking for help with optimizing data workflows and building scalable data architectures.
+
+- 💬 &nbsp; Ask me about data science, data engineering, and my journey as a graduate student in data science.
+
+- 📫 &nbsp; How to reach me: You can drop me a message on LinkedIn or shoot me an email at [dspnavya01@email.com].
+
+- 😄 &nbsp; Pronouns: She/Her
+
+- ⚡ &nbsp; Fun fact: I love hiking and exploring new trails in my free time!
 
 <h3>🛠 Tech Stack</h3>
+
 - 🌐 Python, JavaScript, SQL, HTML, CSS
+
 - 📊 Pandas, NumPy, Matplotlib, TensorFlow, Scikit-learn
+
 - 💾 PostgreSQL, MySQL, MongoDB
+
 - 💻 Git,  Jupyter Notebook, Visual Studio Code, Tableau
+
 
 ### Technical Skills
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
